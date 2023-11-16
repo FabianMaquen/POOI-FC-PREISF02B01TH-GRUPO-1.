@@ -15,6 +15,9 @@
 *.log
 *private.xml
 *private.properties
+PruebaFinal/build/classes/GUI/*.form
+PruebaFinal/src/GUI/*.form
+PruebaFinal/src/GUI/*.java
 
 # Package files
 *.jar
