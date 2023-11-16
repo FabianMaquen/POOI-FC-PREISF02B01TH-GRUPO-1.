@@ -13,6 +13,8 @@
 
 # Log files
 *.log
+*private.xml
+*private.properties
 
 # Package files
 *.jar
