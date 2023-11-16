@@ -47,9 +47,6 @@ public class RecuperarClave extends javax.swing.JFrame {
                 timer.stop();
             }
         });
-    
-        
-        
     }
 
     /**
@@ -180,8 +177,8 @@ public class RecuperarClave extends javax.swing.JFrame {
         ventanaLogin.setVisible(true);
         this.setVisible(false);
         
-        
-        
+        //hola esto es un cambio
+       
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void botonCustomLogin1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonCustomLogin1ActionPerformed
