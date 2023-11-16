@@ -1,11 +1,11 @@
 # .gitignore for NetBeans and Java projects
 
 # NetBeans-specific files
-/nbproject/private/
-/build/
-/nbbuild/
-/dist/
-/nbdist/
+/nbproject/private/*
+/build/*
+/nbbuild/*
+/dist/*
+/nbdist/*
 /.nb-gradle/
 
 # Compiled class files
@@ -13,11 +13,16 @@
 
 # Log files
 *.log
+*private.xml
+*private.properties
 
 # Package files
 *.jar
 *.war
 *.ear
+*.zip
+*.tar.gz
+*.rar
 
 # Others
 *.bak
